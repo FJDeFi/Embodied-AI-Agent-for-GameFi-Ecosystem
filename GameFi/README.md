@@ -224,10 +224,6 @@ npm run metrics
 4. Push to the branch
 5. Create a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Important Notes
 
 1. **API Keys**: Never commit API keys or private keys to the repository
